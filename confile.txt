@@ -1,3 +1,4 @@
 Первая строка
 Вторая строка
 NEW method
+NEW method 2
