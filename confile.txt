@@ -1,6 +1,2 @@
 Первая строка
 Вторая строка
-NEW method
-NEW method 2
-NEW method 3
-NEW method 7
