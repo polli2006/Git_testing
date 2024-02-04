@@ -2,3 +2,4 @@
 Вторая строка
 NEW method
 NEW method 2
+NEW method 3
